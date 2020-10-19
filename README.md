@@ -1,5 +1,5 @@
 ### Study Notes
-[Intro to Containers](https://github.com/getfutureproof/fp_guides_wiki/wiki/Setting-up-Containers-with-VS-Code)
+[Setting up Containers with VS Code](https://github.com/getfutureproof/fp_guides_wiki/wiki/Setting-up-Containers-with-VS-Code)
 
 # Exercises
 1. Create a Docker account

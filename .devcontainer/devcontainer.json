@@ -1,0 +1,18 @@
+{
+	"name": "fp_hello-docker",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": { "VARIANT": "14" }
+	},
+
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/zsh",
+		"workbench.colorTheme": "Nebula"
+	},
+
+	"extensions": [
+		"dbaeumer.vscode-eslint",
+		"chirtlelovesdolls.nebula-theme",
+		"ms-vsliveshare.vsliveshare"
+	]
+}

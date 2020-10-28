@@ -1,5 +1,5 @@
 {
-	"name": "fp_hello-docker",
+	"name": "fp_hi-docker",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": { "VARIANT": "14" }
